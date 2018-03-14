@@ -1,0 +1,24 @@
+
+.slide{
+    background-color: #106FB6;
+    background:url('img/header.png');
+    background-size: 100%;
+}
+
+.profile{
+    margin: 15px 0;
+    background: none; 
+    border: none; 
+    box-shadow: none;
+}
+
+.no-border{
+    margin: 15px 0;
+    background: none; 
+    border: none; 
+    box-shadow: none;
+}
+
+.box-placeholder{
+    background-color:#fff;opacity:.90;border-radius: 10px;
+}
